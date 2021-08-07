@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.7" />
+  </component>
+  <component name="CopyrightManager" default="">
+    <module2copyright />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+        <option name="TOP_LEVEL_CLASS_OPTIONS">
+          <value>
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+            <option name="REQUIRED_TAGS" value="" />
+          </value>
+        </option>
+        <option name="INNER_CLASS_OPTIONS">
+          <value>
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+            <option name="REQUIRED_TAGS" value="" />
+          </value>
+        </option>
+        <option name="METHOD_OPTIONS">
+          <value>
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+            <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+          </value>
+        </option>
+        <option name="FIELD_OPTIONS">
+          <value>
+            <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+            <option name="REQUIRED_TAGS" value="" />
+          </value>
+        </option>
+        <option name="IGNORE_DEPRECATED" value="false" />
+        <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+        <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+        <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+        <option name="myAdditionalJavadocTags" value="date" />
+      </inspection_tool>
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+    <code_scheme name="Project" version="173">
+      <JavaCodeStyleSettings>
+        <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+        <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+        <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+          <value />
+        </option>
+        <option name="IMPORT_LAYOUT_TABLE">
+          <value>
+            <package name="" withSubpackages="true" static="false" />
+            <emptyLine />
+            <emptyLine />
+            <package name="" withSubpackages="true" static="true" />
+          </value>
+        </option>
+      </JavaCodeStyleSettings>
+      <ScalaCodeStyleSettings>
+        <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+      </ScalaCodeStyleSettings>
+    </code_scheme>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module filepath="$PROJECT_DIR$/kafka-0.11.0.iml" fileurl="file://$PROJECT_DIR$/kafka-0.11.0.iml" />
+      <module filepath="$PROJECT_DIR$/clients/clients.iml" fileurl="file://$PROJECT_DIR$/clients/clients.iml" />
+      <module filepath="$PROJECT_DIR$/connect/connect.iml" fileurl="file://$PROJECT_DIR$/connect/connect.iml" />
+      <module filepath="$PROJECT_DIR$/core/core.iml" fileurl="file://$PROJECT_DIR$/core/core.iml" />
+      <module filepath="$PROJECT_DIR$/examples/kafka-0.11.0-examples.iml" fileurl="file://$PROJECT_DIR$/examples/kafka-0.11.0-examples.iml" />
+      <module filepath="$PROJECT_DIR$/jmh-benchmarks/jmh-benchmarks.iml" fileurl="file://$PROJECT_DIR$/jmh-benchmarks/jmh-benchmarks.iml" />
+      <module filepath="$PROJECT_DIR$/log4j-appender/log4j-appender.iml" fileurl="file://$PROJECT_DIR$/log4j-appender/log4j-appender.iml" />
+      <module filepath="$PROJECT_DIR$/streams/streams.iml" fileurl="file://$PROJECT_DIR$/streams/streams.iml" />
+      <module filepath="$PROJECT_DIR$/tools/tools.iml" fileurl="file://$PROJECT_DIR$/tools/tools.iml" />
+      <module filepath="$PROJECT_DIR$/connect/api/api.iml" fileurl="file://$PROJECT_DIR$/connect/api/api.iml" />
+      <module filepath="$PROJECT_DIR$/connect/file/file.iml" fileurl="file://$PROJECT_DIR$/connect/file/file.iml" />
+      <module filepath="$PROJECT_DIR$/connect/json/json.iml" fileurl="file://$PROJECT_DIR$/connect/json/json.iml" />
+      <module filepath="$PROJECT_DIR$/connect/runtime/runtime.iml" fileurl="file://$PROJECT_DIR$/connect/runtime/runtime.iml" />
+      <module filepath="$PROJECT_DIR$/connect/transforms/transforms.iml" fileurl="file://$PROJECT_DIR$/connect/transforms/transforms.iml" />
+      <module filepath="$PROJECT_DIR$/streams/examples/streams-examples.iml" fileurl="file://$PROJECT_DIR$/streams/examples/streams-examples.iml" />
+      <module filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0100/upgrade-system-tests-0100.iml" fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0100/upgrade-system-tests-0100.iml" />
+      <module filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0101/upgrade-system-tests-0101.iml" fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0101/upgrade-system-tests-0101.iml" />
+      <module filepath="$PROJECT_DIR$/streams/upgrade-system-tests-0102/upgrade-system-tests-0102.iml" fileurl="file://$PROJECT_DIR$/streams/upgrade-system-tests-0102/upgrade-system-tests-0102.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.11.11" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.11/2f1568549280da6d0a332846cb7c27edae76fd10/scala-compiler-2.11.11.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.11/e283d2b7fde6504f6a86458b1f6af465353907cc/scala-library-2.11.11.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.11/2addc7e09cf2e77e2243a5772bd0430c32c2b410/scala-reflect-2.11.11.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.5/77ac9be4033768cf03cc04fbd1fc5e5711de2459/scala-xml_2.11-1.0.5.jar" />
+          <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>
